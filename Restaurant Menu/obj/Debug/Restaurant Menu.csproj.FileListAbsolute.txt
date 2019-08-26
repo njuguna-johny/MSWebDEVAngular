@@ -1,0 +1,19 @@
+D:\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll.config
+D:\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll
+D:\Restaurant\Restaurant Menu\bin\Restaurant Menu.pdb
+D:\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.csprojResolveAssemblyReference.cache
+D:\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.dll
+D:\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.pdb
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll.config
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.pdb
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.csprojResolveAssemblyReference.cache
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.dll
+C:\Users\v-cakima\Microsoft\COSINE Privacy Excellence Center - TechnoBrain Recruiting\SDE and WEB devs\All Dev Repos\Hima Brahmbhatt\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.pdb
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll.config
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.dll
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\bin\Restaurant Menu.pdb
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.csprojAssemblyReference.cache
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.csproj.CoreCompileInputs.cache
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.dll
+D:\iSDA\Source Code Solution\Source Code Solution\Restaurant\Restaurant Menu\obj\Debug\Restaurant Menu.pdb

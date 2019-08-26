@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-ng-app = "restaurantApp">
+<head>
+    <title>Restaurant Menu</title>
+    <script src= "Scripts/angular.js"></script>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/app.js"></script>
+    <!--<script src="menuController.js"></script>-->
+</head>
+<body data-ng-controller = "menuCtrl">
+    <h1>Restaurant Menu</h1>
+    <ul data-ng-repeat="menuItem in menu" style="list-style-type: none;">
+        <li>
+           <input type="checkbox" data-ng-model="checked"/>
+           <label>{{menuItem.name}}</label>
+         </li>
+        <li data-ng-show="checked">
+           <ul data-ng-repeat="choice in menuItem.choices" style="list-style-type: none;">
+               <li>
+                   <input type="checkbox" data-ng-model="choicechecked" name="choice.$index"/>
+                   <label>{{choice.name}}</label>       
+                </li>
+                <li data-ng-show="choicechecked">
+                    <p data-ng-if="menuItem.related.length != 0">You might also want:</p>
+                    <ul data-ng-repeat="related in menuItem.related" style="list-style-type: none;">
+                        <li>
+                            <input type="checkbox" data-ng-model="relatedchecked"/>
+                            <label>{{related.name}}</label>
+                        </li>
+                        <li data-ng-show="relatedchecked">
+                            <ul data-ng-repeat="relatedchoice in related.choices" style="list-style-type: none;">
+                                <li>
+                                   <input type="checkbox" data-ng-model="relatedchoicechecked"/>
+                                   <label>{{relatedchoice.name}}</label>
+                                </li>
+                            </ul>
+                        </li>
+                     </ul>
+                </li>
+          </ul>
+       </li>
+    </ul>
+</body>
+</html>
